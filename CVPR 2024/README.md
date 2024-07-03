@@ -4,6 +4,8 @@
 
 <figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
+\[project]\([https://generative-dynamics.github.io/](https://generative-dynamics.github.io/)) \[ArXiv]\([https://arxiv.org/abs/2309.07906](https://arxiv.org/abs/2309.07906))
+
 ```
 Paper：Generative Image Dynamics
 arXiv：https://arxiv.org/abs/2309.07906
