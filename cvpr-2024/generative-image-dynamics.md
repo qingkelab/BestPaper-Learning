@@ -9,7 +9,7 @@ Paper：Generative Image Dynamics
 arXiv：https://arxiv.org/abs/2309.07906
 ```
 
-CVPR今年2篇best paper都给了图像生成模型，可见社区对生产式模型的关注度还是空前高涨的。这篇文章《Generative Image Dynamics》GID重点解决的是某种特定类型的动态视频的生成：**图像全局的自然摇曳**，例如下图中由风引起的树叶、花朵、灯笼、烛火的摆动，甚至是猫咪的呼吸导致的腹部起伏。
+CVPR 2024 2篇best paper都给了图像生成模型，可见社区对生产式模型的关注度还是空前高涨的。这篇文章《Generative Image Dynamics》GID重点解决的是某种特定类型的动态视频的生成：**图像全局的自然摇曳**，例如下图中由风引起的树叶、花朵、灯笼、烛火的摆动，甚至是猫咪的呼吸导致的腹部起伏。
 
 ![](https://pic3.zhimg.com/80/v2-8b8bc4a7fe2ea2957176a2432e183cca\_1440w.webp)
 
