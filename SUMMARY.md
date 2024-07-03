@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Page](README.md)
+* [通往Best Paper之路](README.md)
