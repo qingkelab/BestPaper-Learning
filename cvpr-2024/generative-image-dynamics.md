@@ -2,7 +2,7 @@
 
 > 作者：李翔·南开大学（减论）
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ```
 Paper：Generative Image Dynamics
