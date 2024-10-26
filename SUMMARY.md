@@ -4,5 +4,5 @@
 
 ## Best Paper
 
-* [CVPR 2024:Generative Image Dynamics](best-paper/generative-image-dynamics.md)
-* [Page 1](best-paper/page-1.md)
+* [CVPR 2024:Generative Image Dynamics](cvpr-2024/generative-image-dynamics.md)
+* [CVPR 2023:UniAD](best-paper/cvpr-2023-uniad.md)

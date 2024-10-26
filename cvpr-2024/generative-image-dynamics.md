@@ -1,4 +1,4 @@
-# Generative Image Dynamics
+# CVPR 2024:Generative Image Dynamics
 
 > 作者：李翔·南开大学（减论）
 
